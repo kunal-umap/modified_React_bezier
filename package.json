@@ -41,10 +41,10 @@
     "webpack-dev-server": "^3.11.0"
   },
   "author": "",
-  "homepage": "",
+  "homepage": "https://github.com/kunal-umap/modified_React_bezier",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:kunal-umap/modified_React_bezier.git"
   },
   "eslintConfig": {
     "extends": "react-app"
