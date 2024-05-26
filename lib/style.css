@@ -9,9 +9,9 @@
   overflow: visible !important;
 }
 
-path,
-polyline {
-  stroke-width: 1.5px;
-  fill: none;
-  stroke: #999;
+.bezier-line path,
+.bezier-line polyline {
+  stroke-width: 1.5px !important;
+  fill: none !important;
+  stroke: #000000 !important;
 }
