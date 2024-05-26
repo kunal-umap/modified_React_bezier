@@ -1,5 +1,5 @@
 {
-  "name": "react-bezier-modified",
+  "name": "react-bezier",
   "version": "1.0.1",
   "description": "Small and simple library for ReactJs for plotting bezier curves",
   "main": "lib/index.js",
@@ -39,6 +39,12 @@
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
+  },
+  "author": "Error_256 <yksys2015@gmail.com>",
+  "homepage": "https://github.com/Error-256/react-bezier",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Error-256/react-bezier.git"
   },
   "eslintConfig": {
     "extends": "react-app"
